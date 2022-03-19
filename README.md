@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Steve Tao
+👋 Hi, I’m Steve Tao
 
 <!---
 steveyjtao/steveyjtao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
